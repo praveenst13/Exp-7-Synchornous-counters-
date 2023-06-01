@@ -77,6 +77,7 @@ RegisterNumber:
 ### TIMING DIGRAMS FOR COUNTER  
 
 ### DOWN COUNTER
+![Screenshot 2023-06-01 105225](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/f5fede7f-a581-47e2-99c1-0617f69e8f1b)
 
 
 ### UP COUNTER
