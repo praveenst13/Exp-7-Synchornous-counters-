@@ -63,22 +63,25 @@ RegisterNumber:
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
+### DOWN COUNTER
 
-### UP COUNTER
 
 
 ![Screenshot 2023-06-01 104012](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/43ccd41e-1a56-4a3c-96ba-623c53f5a904)
 
-### DOWN COUNTER
+### UP COUNTER
 
+![Screenshot 2023-06-01 105915](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/bd2e772e-0b23-4759-b9be-44bfee70ec0f)
 
 
 ### TIMING DIGRAMS FOR COUNTER  
-### UP COUNTER
-
-![Screenshot 2023-06-01 104956](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/ca9fc0ef-696b-4119-b229-a7d0db88cee2)
 
 ### DOWN COUNTER
+
+
+### UP COUNTER
+![Screenshot 2023-06-01 110219](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/b8eba379-f7dd-42fc-9e1f-5a6a5f875148)
+
 
 
 ### TRUTH TABLE 
