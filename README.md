@@ -121,9 +121,9 @@ endmodule
 
 ### DOWN COUNTER
 
+![WhatsApp Image 2023-06-01 at 11 39 42 AM(1)](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/664f2e62-1af2-4ad0-a338-0129b04798a5)
 
 
-![WhatsApp Image 2023-06-01 at 11 39 42 AM](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/fe31560d-c0b2-4144-8b69-7d664a9d95f6)
 
 
 
