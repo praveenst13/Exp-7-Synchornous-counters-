@@ -103,25 +103,19 @@ endmodule
 
 
 ### RTL LOGIC UP COUNTER AND DOWN COUNTER  
-### DOWN COUNTER
 
+i] DownCounter
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/aff5f091-be9d-4351-a0cd-54494377662c)
 
-
-![Screenshot 2023-06-01 104012](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/43ccd41e-1a56-4a3c-96ba-623c53f5a904)
-
-### UP COUNTER
-
-![Screenshot 2023-06-01 105915](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/bd2e772e-0b23-4759-b9be-44bfee70ec0f)
-
+ii] UpCounter
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/63607f80-f85a-461f-99c6-1503fae37213)
 
 ### TIMING DIGRAMS FOR COUNTER  
+i] DownCounter
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/0eac2c4a-926f-475f-a77c-42f0595f33a5)
 
-### DOWN COUNTER
-![Screenshot 2023-06-01 105225](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/f5fede7f-a581-47e2-99c1-0617f69e8f1b)
-
-
-### UP COUNTER
-![Screenshot 2023-06-01 110219](https://github.com/praveenst13/Exp-7-Synchornous-counters-/assets/118787793/b8eba379-f7dd-42fc-9e1f-5a6a5f875148)
+ii] UpCounter
+![image](https://github.com/NathinR/Exp-7-Synchornous-counters-/assets/118679646/0698d524-9637-40d3-8f91-52db81963a37)
 
 
 
